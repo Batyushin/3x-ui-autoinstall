@@ -8,6 +8,7 @@
 
 ```bash
 bash <(curl -Ls [https://raw.githubusercontent.com/Batyushin/3x-ui-autoinstall/refs/heads/main/install.sh](https://raw.githubusercontent.com/Batyushin/3x-ui-autoinstall/refs/heads/main/install.sh))
+```
 
 ## ⚙️ Что делает скрипт:
 
